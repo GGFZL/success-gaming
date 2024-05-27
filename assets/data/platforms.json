@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "name" : "Steam"
+    },
+    {
+        "id" : 2,
+        "name" : "Epic Games"
+    },
+    {
+        "id" : 3,
+        "name" : "Origin"
+    },
+    {
+        "id" : 4,
+        "name" : "Ubisoft"
+    }
+]
